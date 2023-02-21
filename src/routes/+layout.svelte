@@ -12,4 +12,3 @@
 <Navigation />
 <slot />
 <Footer />
-<ToTop />
